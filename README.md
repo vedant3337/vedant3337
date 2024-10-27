@@ -27,7 +27,23 @@
   </li>
   <li>
     🌐 <strong>Portfolio Web App</strong><br>
-    Currently, I'm building a <strong>portfolio web app using the MERN stack</strong>, which will serve as a showcase for my projects, skills, and achievements. Stay tuned!
+    I have completed building a <strong>portfolio web app using the MERN stack</strong>, which serves as a showcase for my projects, skills, and achievements.
+  </li>
+  <li>
+    📝 <strong>Payslip Generator</strong><br>
+    A full-stack web application that follows the <strong>MVC pattern</strong>, designed for generating payslips.
+  </li>
+  <li>
+    🌦️ <strong>Weather App</strong><br>
+    An API application that retrieves weather data using external APIs.
+  </li>
+  <li>
+    🎬 <strong>Movie Detail Fetching App</strong><br>
+    An API application that fetches movie details from the OMDB API.
+  </li>
+  <li>
+    🌍 <strong>GSSoC Extended Edition 2024 Contributor</strong><br>
+    Selected as a contributor for the GirlScript Summer of Code Extended Edition 2024.
   </li>
 </ul>
 
@@ -41,4 +57,4 @@
   </a>
 </p>
 
-<p align="center">Thank you for visiting my profile! 🌟</p>
+<h2 align="center"><strong>Thank You for Visiting My Profile! 🌟</strong></h2>

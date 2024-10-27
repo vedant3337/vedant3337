@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedant-patel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/vedant-patel?tab=followers">
-    <img src="https://img.shields.io/github/followers/vedant-patel?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=vedant3337&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/vedant3337?tab=followers">
+    <img src="https://img.shields.io/github/followers/vedant3337?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -26,18 +26,18 @@
     An end-to-end e-commerce platform built with <strong>HTML, Tailwind CSS, MongoDB Atlas, Express.js,</strong> and <strong>NodeMailer</strong>. This project showcases my ability to integrate front-end design with back-end development and database management.
   </li>
   <li>
-    🌐 <strong>Portfolio Web App (Ongoing)</strong><br>
+    🌐 <strong>Portfolio Web App</strong><br>
     Currently, I'm building a <strong>portfolio web app using the MERN stack</strong>, which will serve as a showcase for my projects, skills, and achievements. Stay tuned!
   </li>
 </ul>
 
 <h2>📫 <strong>Connect with Me</strong></h2>
 <p>
-  <a href="https://www.linkedin.com/in/vedant-patel/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant3337/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/vedant-patel" target="_blank">
-    <img src="https://img.shields.io/github/followers/vedant-patel?label=GitHub&style=flat-square&logo=Github" alt="GitHub">
+  <a href="https://github.com/vedant3337" target="_blank">
+    <img src="https://img.shields.io/github/followers/vedant3337?label=GitHub&style=flat-square&logo=Github" alt="GitHub">
   </a>
 </p>
 

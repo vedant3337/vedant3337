@@ -46,6 +46,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 
+</br>
+<p><strong>🌱 Hacktoberfest 2024: Level 2 </strong></p>
+
+[![An image of @vedant3337's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedant3337)](https://holopin.io/@vedant3337)
 
 <h2>🌟 <strong>Projects & Contributions</strong></h2>
 <ul>

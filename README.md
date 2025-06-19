@@ -88,7 +88,7 @@
   <a href="https://github.com/vedant3337" target="_blank">
     <img src="https://img.shields.io/github/followers/vedant3337?label=GitHub&style=flat-square&logo=Github" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/_.vedant7/" target="_blank">
+  <a href="https://www.instagram.com/vedant13p/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
